@@ -1,1 +1,380 @@
-[]
+[
+    {
+        "q": "What type of solid is sodium chloride ?",
+        "a": {
+            "1": "Ionic",
+            "2": "Molecular",
+            "3": "Covalent",
+            "4": "Metallic"
+        }
+    },
+    {
+        "q": "The melting points of ionic solids are",
+        "a": {
+            "1": "Very high",
+            "2": "Normal",
+            "3": "Very low",
+            "4": "Abnormal"
+        }
+    },
+    {
+        "q": "What type of solid is quartz ?",
+        "a": {
+            "1": "Ionic",
+            "2": "Molecular",
+            "3": "Covalent",
+            "4": "Metallic"
+        }
+    },
+    {
+        "q": "What type of crystal structure is of silver metal ?",
+        "a": {
+            "1": "fcc",
+            "2": "Simple cube",
+            "3": "bcc",
+            "4": "Metallic"
+        }
+    },
+    {
+        "q": "What is the percentage packing efficiency of simple cube ?",
+        "a": {
+            "1": "53.26",
+            "2": "68.0",
+            "3": "74.0",
+            "4": "52.36"
+        }
+    },
+    {
+        "q": "How many times is the number of octahedral voids as compared to tetrahedral voids ?",
+        "a": {
+            "1": "4",
+            "2": "8",
+            "3": "2",
+            "4": "0.5"
+        }
+    },
+    {
+        "q": "What is the number of atoms in the unit cell of body centred cube ?",
+        "a": {
+            "1": "2",
+            "2": "1",
+            "3": "4",
+            "4": "6"
+        }
+    },
+    {
+        "q": "What is the number of atoms in face centred cube ?",
+        "a": {
+            "1": "2",
+            "2": "1",
+            "3": "4",
+            "4": "6"
+        }
+    },
+    {
+        "q": "In which of the following compounds Schottky defect is present ?",
+        "a": {
+            "1": "NaCl",
+            "2": "ZnS",
+            "3": "SiO2",
+            "4": "SrCl2"
+        }
+    },
+    {
+        "q": "In which of the following compounds Frenkel defect is present ?",
+        "a": {
+            "1": "NaCl",
+            "2": "ZnS",
+            "3": "KBr",
+            "4": "SrCl2"
+        }
+    },
+    {
+        "q": "Which of the following compounds shows metal deficiency defect ?",
+        "a": {
+            "1": "Fe0.95O",
+            "2": "Fe2O3.6",
+            "3": "Fe3O4",
+            "4": "FeS1.6"
+        }
+    },
+    {
+        "q": "Which of the following elements is a semiconductor ?",
+        "a": {
+            "1": "Na",
+            "2": "Al",
+            "3": "Fe",
+            "4": "Ge"
+        }
+    },
+    {
+        "q": "Which type of semiconductor is obtained by doping Si with Bi ?",
+        "a": {
+            "1": "n-type",
+            "2": "p-type",
+            "3": "pnp-type",
+            "4": "npn-type"
+        }
+    },
+    {
+        "q": "With which element, the conductivity of ReO3 is matching ?",
+        "a": {
+            "1": "Copper",
+            "2": "Zinc",
+            "3": "Iron",
+            "4": "Aluminium"
+        }
+    },
+    {
+        "q": "Which of the following will be paramagnetic ?",
+        "a": {
+            "1": "O22-",
+            "2": "Cr3+",
+            "3": "Na+",
+            "4": "Cu+"
+        }
+    },
+    {
+        "q": "Which theory is useful in explaining electrical conductivity in conductors and semiconductors ?",
+        "a": {
+            "1": "Pauli's principle",
+            "2": "Avogadro's theory",
+            "3": "band theory",
+            "4": "Hybridisation theory"
+        }
+    },
+    {
+        "q": "_____ of the following is a crystalline solid.",
+        "a": {
+            "1": "Glass",
+            "2": "Rubber",
+            "3": "Plastic",
+            "4": "Sugar"
+        }
+    },
+    {
+        "q": "Which of the following is an example of a covalent solid ?",
+        "a": {
+            "1": "Silicon",
+            "2": "Sulphur",
+            "3": "Phosphorus",
+            "4": "Iodine"
+        }
+    },
+    {
+        "q": "Select the non-conductor substance from the following.",
+        "a": {
+            "1": "NaCl",
+            "2": "P4",
+            "3": "Cr",
+            "4": "KNO3"
+        }
+    },
+    {
+        "q": "Select highest electrical conductor and thermal conductor from the following.",
+        "a": {
+            "1": "Si",
+            "2": "Li",
+            "3": "NaCl",
+            "4": "Ice"
+        }
+    },
+    {
+        "q": "Which of the following compound has highest melting point ?",
+        "a": {
+            "1": "SiO2(s)",
+            "2": "H2O(s)",
+            "3": "Mg(s)",
+            "4": "CO2(s)"
+        }
+    },
+    {
+        "q": "What is the percentage of empty space in ccp and bcc structures ?",
+        "a": {
+            "1": "48% and 26%",
+            "2": "30% and 26%",
+            "3": "26% and 32 %",
+            "4": "32 % and 48%"
+        }
+    },
+    {
+        "q": "The correct statement about the crystal structure of zinc blende is _____",
+        "a": {
+            "1": "Zn2+ and S2- each has co-ordination number equal to six",
+            "2": "Zn2+ and S2- each has co-ordination number equal to four",
+            "3": "Zn2+ and S2- each has co-ordination number equal to two",
+            "4": "Zn2+ and S2- each has co-ordination number equal to eight"
+        }
+    },
+    {
+        "q": "In crystal structure of MgO, ionic radius of each of Mg2+ and O2- is respectively 0.0659 and 0.139 nm. What will be the position of Mg2+ ions ?",
+        "a": {
+            "1": "In the octahedral void of cubic close packing arrangement.",
+            "2": "In each of tetrahedral voids.",
+            "3": "Some in octahedral voids and some in tetrahedral voids.",
+            "4": "In alternative tetrahedral voids."
+        }
+    },
+    {
+        "q": "For hexagonal crystal syestem which of the following sets of parameters of axial distances and axial angles is correct ?",
+        "a": {
+            "1": "a = b = c, α = β = γ = 90°",
+            "2": "a = b ≠ c, α = β = γ = 90°",
+            "3": "a = b = c, α = β = γ ≠ 90°",
+            "4": "a = b ≠ c, α = β = 90°, γ = 120°"
+        }
+    },
+    {
+        "q": "Crystal system having axial distance a ≠ b ≠ c and axial angle α ≠ β ≠ γ ≠ 90° is _____ .",
+        "a": {
+            "1": "Tetragonal",
+            "2": "Triclinic",
+            "3": "Monoclinic",
+            "4": "Orthorhombic"
+        }
+    },
+    {
+        "q": "Which of the following is not an example of tetragonal crystal system ?",
+        "a": {
+            "1": "TiO2",
+            "2": "CuSO4",
+            "3": "SnO2",
+            "4": "BaSO4"
+        }
+    },
+    {
+        "q": "In a unit cell, the relation between the edge of the cube (a) and the radius of the particle (r) in fcc, bcc and simple cubic lattice is respectively _____ .",
+        "a": {
+            "1": "2r, 4r3, 22r",
+            "2": "22r, 4r3, 2r",
+            "3": "22r, 2r, 4r3",
+            "4": "4r3, 22r, 2r"
+        }
+    },
+    {
+        "q": "In the crystal of a compound formed by elements A and B, atoms of A are at the corners of the cube and atoms of B are at the centres of the faces. What should be the formula of this compound ?",
+        "a": {
+            "1": "AB",
+            "2": "AB2",
+            "3": "AB3",
+            "4": "A3B"
+        }
+    },
+    {
+        "q": "Select from the following the correct set of fractions of constituents (atoms, ions and molecules) associated respectively with corners, edges and faces to form crystal lattice points in a crystal.",
+        "a": {
+            "1": "18, 14, 12",
+            "2": "14, 18, 12",
+            "3": "12, 14, 18",
+            "4": "18, 12, 14"
+        }
+    },
+    {
+        "q": "A crystal AB possesses the same structure as NaCl in which every A+ ion is present at the corner of the unit cell. If atoms present at the centre of face on the same axis are removed, the formula of the crystal will be _____ .",
+        "a": {
+            "1": "A4B4",
+            "2": "A4B3",
+            "3": "A3B4",
+            "4": "AB"
+        }
+    },
+    {
+        "q": "What is the empty space in the hexagonal close packing arrangement of a crystal ?",
+        "a": {
+            "1": "26%",
+            "2": "32%",
+            "3": "74%",
+            "4": "52%"
+        }
+    },
+    {
+        "q": "An oxide of manganese has magnetic moment (μ) equal to 4.9 B.M. Identify the oxide.",
+        "a": {
+            "1": "MnO",
+            "2": "Mn2O3",
+            "3": "MnO2",
+            "4": "Mn2O7"
+        }
+    },
+    {
+        "q": "At what temperature will the Schottky defect be maximum ?",
+        "a": {
+            "1": "108 °C",
+            "2": "-273 °C",
+            "3": "-100 °C",
+            "4": "0 °C"
+        }
+    },
+    {
+        "q": "What is the approximate value of conductivity of non-conductor ?",
+        "a": {
+            "1": "104 to 107 ohm-1 m-1",
+            "2": "10-20 to 10-10 ohm-1 m-1",
+            "3": "10-6 to 104 ohm-1 m-1",
+            "4": "10-4 to 10-7 ohm-1 m-1"
+        }
+    },
+    {
+        "q": "Which of the following oxides act as a semiconductor ?",
+        "a": {
+            "1": "TiO",
+            "2": "TiO2",
+            "3": "Ti2O3",
+            "4": "FeO"
+        }
+    },
+    {
+        "q": "In which of the following states of ionic compounds, Schottky defect is observed maximum in crystalline structure ?",
+        "a": {
+            "1": "Gas",
+            "2": "Plasma",
+            "3": "Liquid",
+            "4": "Solid"
+        }
+    },
+    {
+        "q": "Which of the following is diamagnetic ?",
+        "a": {
+            "1": "KO2",
+            "2": "SiO2",
+            "3": "TiO2",
+            "4": "BaO2"
+        }
+    },
+    {
+        "q": "The space between valence band and conduction band is called _____ .",
+        "a": {
+            "1": "Conductivity gap",
+            "2": "Energy gap",
+            "3": "Valence gap",
+            "4": "Both (A) and (C)"
+        }
+    },
+    {
+        "q": "Schottky defect is seen in _____ .",
+        "a": {
+            "1": "solids whose cations and anions are of almost same size",
+            "2": "solids whose co-ordination numbers are high",
+            "3": "solids whose co-ordination numbers are low",
+            "4": "Both (A) and (B)"
+        }
+    },
+    {
+        "q": "Which of the following is diamagnetic ?",
+        "a": {
+            "1": "Fe3+",
+            "2": "N2",
+            "3": "Cu2+",
+            "4": "O2"
+        }
+    },
+    {
+        "q": "Which defect creates when some P atom added to Si ?",
+        "a": {
+            "1": "Displacement defect",
+            "2": "Metal deficiency defect",
+            "3": "Electron defect",
+            "4": "Metal excess defect"
+        }
+    }
+]
